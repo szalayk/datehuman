@@ -1,0 +1,14 @@
+{
+    "name": "szalayk/datehuman",
+    "description": "Human-readable time difference in multiple languages (e.g. '3 hours ago', 'in 2 days').",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Szalayk\\DateHuman\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
